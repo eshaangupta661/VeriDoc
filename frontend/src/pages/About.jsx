@@ -243,16 +243,16 @@ function About() {
                         <p className="text-primary-400 text-sm uppercase tracking-wider mb-2 font-semibold">
                             Developed By
                         </p>
-                        <h2 className="text-3xl font-bold text-white mb-4">Prakhar Vishwakarma</h2>
+                        <h2 className="text-3xl font-bold text-white mb-4">Eshaan Gupta</h2>
                         <p className="text-gray-300 mb-6">
                             A passionate developer dedicated to building innovative solutions 
                             that make a real difference in people's lives. This project represents 
                             the intersection of AI, security, and user experience.
                         </p>
                         <div className="flex justify-center">
-                            <a href="https://www.linkedin.com/in/kumar-manglam18/" target="_blank" rel="noopener noreferrer">
+                            <a href="https://github.com/eshaangupta661" target="_blank" rel="noopener noreferrer">
                                 <Button variant="outline" className="border-white text-white hover:bg-white hover:text-secondary-900">
-                                    Connect on LinkedIn
+                                    View on GitHub
                                 </Button>
                             </a>
                         </div>

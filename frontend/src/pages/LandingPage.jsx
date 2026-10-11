@@ -735,13 +735,13 @@ function DeveloperSection() {
                     <p className="text-orange-600 text-sm uppercase tracking-wider mb-2 font-semibold">
                         Developed By
                     </p>
-                    <h2 className="text-2xl font-bold text-secondary-900 mb-4">Prakhar Vishwakarma</h2>
+                    <h2 className="text-2xl font-bold text-secondary-900 mb-4">Eshaan Gupta</h2>
                     <p className="text-secondary-600 mb-6 max-w-lg mx-auto">
                         A passionate developer building innovative AI solutions for Aadhaar verification and document security in India.
                     </p>
-                    <a href="https://www.linkedin.com/in/kumar-manglam18/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/eshaangupta661" target="_blank" rel="noopener noreferrer">
                         <Button variant="outline" className="border-orange-300 text-orange-600 hover:bg-orange-50">
-                            Connect on LinkedIn
+                            View on GitHub
                         </Button>
                     </a>
                 </motion.div>

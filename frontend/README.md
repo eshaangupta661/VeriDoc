@@ -224,7 +224,7 @@ const API_BASE_URL = 'http://127.0.0.1:8000/api';
 
 ## Author
 
-Designed and developed by **Kumar Manglam**
+Designed and developed by **Eshaan Gupta**
 
 ## License
 

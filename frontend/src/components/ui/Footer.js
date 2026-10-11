@@ -26,7 +26,7 @@ function Footer() {
                         <div className="flex items-center gap-3 mb-4">
                             <AadhaarLogo size={36} />
                             <div>
-                                <h3 className="text-lg font-bold text-white">AadhaarAuth System</h3>
+                                <h3 className="text-lg font-bold text-white">VeriDoc</h3>
                                 <p className="text-xs text-secondary-400">Secure Document Verification</p>
                             </div>
                         </div>
@@ -38,10 +38,10 @@ function Footer() {
                         <div className="flex items-center gap-2 text-sm">
                             <EmailIcon size={18} className="text-orange-400" />
                             <a 
-                                href="mailto:prakhar18052006@gmail.com" 
+                                href="mailto:eshaangupta661@gmail.com" 
                                 className="text-secondary-300 hover:text-white transition-colors"
                             >
-                                prakhar18052006@gmail.com
+                                eshaangupta661@gmail.com
                             </a>
                         </div>
                     </div>
@@ -91,11 +91,11 @@ function Footer() {
                 <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-6">
                     <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
                         <p className="text-sm text-secondary-500">
-                            © {currentYear} AadhaarAuth System. All rights reserved.
+                            © {currentYear} VeriDoc. All rights reserved.
                         </p>
                         <p className="text-sm text-secondary-500">
                             Developed with passion by{' '}
-                            <span className="text-orange-400 font-medium">Prakhar Vishwakarma</span>
+                            <span className="text-orange-400 font-medium">Eshaan Gupta</span>
                         </p>
                     </div>
                 </div>

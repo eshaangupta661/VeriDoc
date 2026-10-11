@@ -394,9 +394,9 @@ npm install
 
 ---
 
-## Acknowledgements
+## Author
 
-VeriDoc is built on the open-source **AadhaarAuth System** by Prakhar Vishwakarma ([KManglam](https://github.com/KManglam/)), released under the MIT License. The multi-signal risk scoring and human-review gate are additions in this repository.
+**Eshaan Gupta** - [GitHub](https://github.com/eshaangupta661) - eshaangupta661@gmail.com
 
 ---
 
@@ -405,6 +405,7 @@ VeriDoc is built on the open-source **AadhaarAuth System** by Prakhar Vishwakarm
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 Copyright (c) 2025 Vidzai Digital
+Copyright (c) 2026 Eshaan Gupta
 
 ---
 
